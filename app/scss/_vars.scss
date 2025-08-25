@@ -1,0 +1,46 @@
+$color-accent-red:#D55B69;
+$color-accent-yellow: #E5D049;
+$color-accent-black:#111111;
+
+%robotoslab-400{
+  font-family: 'RobotoSlab-Regular',
+    serif;
+  font-weight: 400;
+}
+
+%robotoslab-500 {
+  font-family: 'RobotoSlab-Medium',
+    serif;
+  font-weight: 500;
+}
+
+%robotoslab-700 {
+  font-family: 'RobotoSlab-Bold',
+    serif;
+  font-weight: 700;
+}
+
+%ptmono-400 {
+  font-family: "PT Mono", monospace;
+  font-weight: 400;
+}
+
+%ptmono-700 {
+  font-family: "PT Mono", monospace;
+  font-weight: 700;
+}
+
+%inter-400 {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+%firamono-400 {
+  font-family: "Fira Mono", monospace;
+  font-weight: 400;
+}
+
+%amaticsc-700 {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 700;
+}
